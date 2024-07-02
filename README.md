@@ -68,4 +68,4 @@ The project is structured as follows:
 ## Click to watch the Demo
 
 
-[![Watch the video](Demo_preview.png)](https://youtu.be/VESvj3ksKkU)
+https://github.com/anya-mb/hotel_Q-A/assets/47106377/68373b7c-0e0b-4d95-9628-08e2e30a92f2
